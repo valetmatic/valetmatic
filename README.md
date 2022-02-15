@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 We are currently working on ... goingto the moon.
+- 🌱 We are currently learning ...somrthing.
+- 👯 We are looking to collaborate on ...everthing.
+- 🤔 We are looking for help with ... money.
+- 💬 Ask us about ... doing nothing.
+- 📫 How to reach us: ...tell the stars
+- ⚡ Fun fact: ... Hahaha
